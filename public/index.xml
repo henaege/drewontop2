@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drew On Top</title>
+    <link>https://drewon.top/</link>
+    <description>Recent content on Drew On Top</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2021, Drew Tolliver | Hugo Swift Theme; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://drewon.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://drewon.top/about/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewon.top/about/</guid>
+      <description>Just starting a new blog, hope to write something each day.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Blog</title>
+      <link>https://drewon.top/post/6-14-21/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewon.top/post/6-14-21/</guid>
+      <description>New Blog Not sure what will be here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating a Blog</title>
+      <link>https://drewon.top/post/6-15-21/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewon.top/post/6-15-21/</guid>
+      <description>What to write? Still trying to get everything configured the way I want.
+Testing some Rich Content Let&amp;rsquo;s see if this works, here is a song I made:
+I can&amp;rsquo;t believe that worked!</description>
+    </item>
+    
+  </channel>
+</rss>

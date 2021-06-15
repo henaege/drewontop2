@@ -5,7 +5,7 @@ theme = "hugo-swift-theme"
 author = "Drew Tolliver"
 copyright = "Copyright © 2021, Drew Tolliver | Hugo Swift Theme; all rights reserved."
 canonifyurls = true
-paginate = 8
+paginate = 4
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
     name = "Weru"
     url = "https://www.linkedin.com/in/dan-weru-profile/"
   [[params.authors]]
-  author = "Drew Tolliver"
+    author = "Drew T"
     name = "Drew" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
     fullName = "Drew Tolliver" # optional. If set, it will display on author card
     bio = ""
